@@ -77,6 +77,8 @@ let
     "tree-sitter-graph"
     # abandoned
     "tree-sitter-swift"
+    # this is the swift language bindings, tree-sitter-swift is the (abandoned) grammar
+    "swift-tree-sitter"
     # abandoned
     "tree-sitter-agda"
     # abandoned
@@ -473,6 +475,10 @@ let
     "tree-sitter-tera" = {
       orga = "uncenter";
       repo = "tree-sitter-tera";
+    };
+    "tree-sitter-swift" = {
+      orga = "alex-pinkus";
+      repo = "tree-sitter-swift";
     };
   };
 
