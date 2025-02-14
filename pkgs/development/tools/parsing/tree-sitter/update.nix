@@ -75,6 +75,8 @@ let
     "tree-sitter-razor"
     # rust library for constructing arbitrary graph structures from source code
     "tree-sitter-graph"
+    # this is the swift language bindings, tree-sitter-swift is the grammar
+    "swift-tree-sitter"
     # abandoned
     "tree-sitter-swift"
     # abandoned
